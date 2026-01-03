@@ -42,6 +42,4 @@
 
 <div align="center">  
 
-  ## 📫 Contact
-
 </div>
