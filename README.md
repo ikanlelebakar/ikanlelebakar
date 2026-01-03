@@ -3,7 +3,7 @@
   # Hi there 👋, I'm Fish
   
   🎓 I'm a **Computer Science student** with a strong interest in **Machine Learning** and its real-world applications.
-  💻 Currently, I'm focusing on building my skills in **Python** and exploring **TensorFlow** for deep learning.
+  💻 Currently, I'm focusing on building my skills in **Python**.
 
 </div>
 
