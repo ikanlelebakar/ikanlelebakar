@@ -27,13 +27,3 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 </div>
-
----
-
-<div align="center">  
-
-  ## Beyond Coding
-
-  When I'm not coding or diving into machine learning, I enjoy **exploring culinary experiences** and watching **anime**.
-
-</div>
