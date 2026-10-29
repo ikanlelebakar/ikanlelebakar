@@ -50,7 +50,7 @@ I call myself a vibe coder: I code out of curiosity and enjoy learning while bui
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ikanlelebakar)
-[![Instagram](https://img.shields.io/badge/Instagram-0F766E?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faishal_is_fish/)
+[![Instagram](https://img.shields.io/badge/Instagram-0F766E?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fais_is_fish/)
 [![Book](https://img.shields.io/badge/Book-0F766E?style=for-the-badge&logo=bookstack&logoColor=white)](https://fais.my.id)
 
 </div>
